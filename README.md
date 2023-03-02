@@ -14,7 +14,7 @@
 | ------ | ------ | ------ |
 |HTML CSS| |Título Oficial B1 de inglés
 |JavaScript||Certificado de Python
-|Python||Certificado de SQL
+|Python||<a href="https://www.udemy.com/share/101XX23@-gotiMxAzl9rNZzVbHUnVCvfs3FkMrjzAayMXGkMYfrq9_3zf2qITv61QgEfW8USlQ==/">Certificado de SQL</>
 |Haskell||Certificado de Desarrollo Web Completo con HTML5, CSS3, JS, AJAX, PHP y MySQL
 |PHP|
 |SQL|
