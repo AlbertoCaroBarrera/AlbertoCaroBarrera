@@ -13,9 +13,9 @@
 | HABILIDADES |------------        | CERTIFICADOS |
 | ------ | ------ | ------ |
 |HTML CSS| |Título Oficial B1 de inglés
-|JavaScript||Certificado de Python
-|Python||<a href="https://www.udemy.com/share/101XX23@-gotiMxAzl9rNZzVbHUnVCvfs3FkMrjzAayMXGkMYfrq9_3zf2qITv61QgEfW8USlQ==/">Certificado de SQL</>
-|Haskell||Certificado de Desarrollo Web Completo con HTML5, CSS3, JS, AJAX, PHP y MySQL
+|JavaScript||<a href="https://www.udemy.com/share/101qUa3@mB3Y_FDYJs4wOyVT0nrHju0LOLtmV_Vu4o01EN9Uv2te7HtSdIpWhBNy8OsXv9atmw==/">Certificado de Python <a/>
+|Python||<a href="https://www.udemy.com/share/101XX23@-gotiMxAzl9rNZzVbHUnVCvfs3FkMrjzAayMXGkMYfrq9_3zf2qITv61QgEfW8USlQ==/">Certificado de SQL <a/>
+|Haskell||<a href="https://www.udemy.com/share/101r3q3@HBbtEwoWRFcASaQyFAXexsBTBSlOWWuBQx941evFjvGFyZdubD8SylgEJpakooNC9g==/">Certificado de Desarrollo Web Completo con HTML5, CSS3, JS, AJAX, PHP y MySQL <a/>
 |PHP|
 |SQL|
 |XML|
