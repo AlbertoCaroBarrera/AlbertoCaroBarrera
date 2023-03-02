@@ -20,7 +20,7 @@
 |SQL|
 |XML|
 |Git y Github|
-|Django|
+
 
 ### DATOS DE INTERES
 - Autodidácta.
