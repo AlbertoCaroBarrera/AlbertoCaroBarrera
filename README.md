@@ -28,3 +28,5 @@
 - Estructura hardware y software para poder teletrabajar.
 
 - Motivación por el avance tecnológico.
+
+<a href="https://www.linkedin.com/in/alberto-caro-barrera/"> Linkedin </a>
