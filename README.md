@@ -13,10 +13,10 @@
 | HABILIDADES |------------        | CERTIFICADOS |
 | ------ | ------ | ------ |
 |HTML CSS| |Título Oficial B1 de inglés
-|JavaScript||<a href="https://www.udemy.com/share/101qUa3@mB3Y_FDYJs4wOyVT0nrHju0LOLtmV_Vu4o01EN9Uv2te7HtSdIpWhBNy8OsXv9atmw==/">Certificado de Python <a/>
+|JavaScript||<a href="https://udemy-certificate.s3.amazonaws.com/pdf/UC-7114dc4c-9cad-4912-9968-ef3eba407492.pdf">Certificado de Python <a/>
 |Python||<a href="https://www.udemy.com/share/101XX23@-gotiMxAzl9rNZzVbHUnVCvfs3FkMrjzAayMXGkMYfrq9_3zf2qITv61QgEfW8USlQ==/">Certificado de SQL <a/>
 |Haskell||<a href="https://www.udemy.com/share/101r3q3@HBbtEwoWRFcASaQyFAXexsBTBSlOWWuBQx941evFjvGFyZdubD8SylgEJpakooNC9g==/">Certificado de Desarrollo Web Completo con HTML5, CSS3, JS, AJAX, PHP y MySQL <a/>
-|PHP|
+ |PHP||<a href="https://www.credly.com/badges/e7667afa-3530-4bf4-a286-c904ced4b7ae/linked_in_profile"> Scrum Foundation Professional Certificate </a>
 |SQL|
 |XML|
 |Git y Github|
