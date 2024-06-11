@@ -3,7 +3,7 @@
 ## ***DESARROLLADOR DE APLICACIONES WEB***
 
 
- Mi nombre es *Alberto* y tengo 29 años.  
+ Mi nombre es *Alberto* y tengo 30 años.  
  Soy de Sevilla.  
  Actualmente me encuentro estudiando *desarrollo de Aplicaciones Web*.  
  Tambien he sido estudiante de *matemáticas* durante varios años.  
